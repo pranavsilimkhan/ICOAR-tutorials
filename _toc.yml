@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+# format: jb-book
+# root: index.rst
+# chapters:
+# - file: into.md
+
+format: jb-book
+root: index.md
+chapters:
+  - file: tutorials_homepage
+    sections:
+      - file: tutorials/data_collection.md
+      - file: tutorials/pre_processing.md
+  - file: sample_projects_homepage
+    sections:      
+      - file: sample_projects/analyzing_cyberbulling.md
+      - file: sample_projects/data-collection_for_covid_research.md
