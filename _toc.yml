@@ -13,6 +13,8 @@ chapters:
     sections:
       - file: tutorials/data_collection.md
       - file: tutorials/pre_processing.md
+      - file: tutorials/text_analysis.md
+      - file: tutorials/visualization.md
   - file: sample_projects_homepage
     sections:      
       - file: sample_projects/analyzing_cyberbulling.md
